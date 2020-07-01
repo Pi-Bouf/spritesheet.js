@@ -1,5 +1,5 @@
 {
-  "name": "spritesheet-js",
+  "name": "@pi-bouf/spritesheet-js",
   "version": "1.2.7",
   "description": "Spritesheet generator",
   "main": "index.js",
